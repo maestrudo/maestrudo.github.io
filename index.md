@@ -10,3 +10,14 @@
 ![meter una imagen](1614274781458.jpg)
 
 
+* lista
+* ordenada
+* de cosas
+
+
+1. lista
+2. ordenada
+3. si tambien
+
+[y aqui un enlace](www.google.com)
+
